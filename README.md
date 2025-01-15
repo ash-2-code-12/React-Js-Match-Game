@@ -1,13 +1,5 @@
 [Visit Match Game](https://matchgameash.ccbp.tech/)
-### Refer to the video below:
-
-<br/>
-<div style="text-align: center;">
-  <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
-    <source src="https://assets.ccbp.in/frontend/content/react-js/match-game-output.mp4" type="video/mp4">
-  </video>
-</div>
-<br/>
+![image](https://github.com/user-attachments/assets/0fd7d8f8-3b07-4605-9c0d-7a0d6fd2a7aa)
 
 ### Design Files
 
