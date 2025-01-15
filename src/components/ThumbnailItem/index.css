@@ -1,0 +1,22 @@
+.thumbnail-item {
+  width: 22%;
+  margin: 0;
+  padding: 0;
+}
+.thumbnail-btn {
+  width: 100%;
+  border: none;
+  cursor: pointer;
+  background-color: transparent;
+  margin: 0;
+  padding: 0;
+}
+.thumbnail-img {
+  width: 100%;
+  aspect-ratio: 1;
+}
+@media (min-width: 768px) {
+  .thumbnail-item {
+    width: 18%;
+  }
+}

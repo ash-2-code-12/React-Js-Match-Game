@@ -1,0 +1,25 @@
+.tab-item {
+  margin: 0;
+  padding: 0;
+}
+.tab-item-btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 500;
+}
+.selected-tab {
+  color: #fec653;
+  border-bottom: 1px solid #fec653;
+}
+@media (min-width: 768px) {
+  .tab-item-btn {
+    font-size: 18px;
+  }
+  .selected-tab {
+    border-bottom: 1.5px solid #fec653;
+  }
+}
